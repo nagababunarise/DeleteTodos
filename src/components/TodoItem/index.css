@@ -1,0 +1,14 @@
+li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 30px;
+}
+.button {
+  background-color: lightcoral;
+  color: whitesmoke;
+  font-weight: 600;
+  font-family: 'Roboto';
+  border-radius: 5px;
+  border-width: 0px;
+}
